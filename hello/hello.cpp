@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
+
 int main()
 {
-cout>>"Omnia ismail mohammed">>endl;
+cout<<"Hello Git!";
 return 0;
 }
